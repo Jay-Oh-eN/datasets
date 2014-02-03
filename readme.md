@@ -74,6 +74,7 @@
 * [Open Science Data Cloud](https://www.opensciencedatacloud.org/publicdata/)
 * [Visual.ly open data](http://blog.visual.ly/data-sources/)
 * [visualizing.org open data](http://www.visualizing.org/data/browse)
+* [music + data](http://musicdatascience.com/)
 
 ### Marketplaces/Data as a Service (DaaS)
 * marketplace: [Infochimps](http://www.infochimps.com/datasets)
