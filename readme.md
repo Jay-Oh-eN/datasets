@@ -66,6 +66,7 @@
 * [Programmable Web](http://www.programmableweb.com/)
 
 ### Aggregations
+* [CrowdFlower Open Data](https://crowdflower.com/open-data-library)
 * [DataMob](http://datamob.org/datasets/tag/machine-learning)
 * [/r/datasets](http://www.reddit.com/r/datasets)
 * [Introduction to Data Science (Berkeley): by Jeff (the Hammer) Hammerbacher](http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets)
