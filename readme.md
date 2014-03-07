@@ -1,6 +1,7 @@
 ### Academic
 * [Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+* [Internet Traffic Archive](http://ita.ee.lbl.gov/html/traces.html)
 
 ### Networks
 * [Youtube](http://netsg.cs.sfu.ca/youtubedata/)
