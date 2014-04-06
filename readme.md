@@ -7,6 +7,7 @@
 ### Networks
 * [Youtube](http://netsg.cs.sfu.ca/youtubedata/)
 * [Twitter user graph](http://an.kaist.ac.kr/traces/WWW2010.html)
+* [Facebook Graph](http://konect.uni-koblenz.de/networks/facebook-sg)
 
 ### GPS/Transit
 * [NYC MTA transit data](http://www.mta.info/developers/download.html)
