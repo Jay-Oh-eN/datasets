@@ -24,12 +24,18 @@
 * [SF neighborhoods](https://data.sfgov.org/Service-Requests-311-/Neighborhoods/ejmn-jyk6)
 * [New York](https://nycopendata.socrata.com/)
 * [United States](http://www.data.gov/)
+* [US Treasury](http://treasury.io/)
 * [Census](http://www2.census.gov/)
 * [United Kingdom](http://data.gov.uk/)
 * [World Bank](http://data.worldbank.org/)
 * [European Union](http://publicdata.eu/)
 * [Federal Reserve](http://research.stlouisfed.org/fred2/)
 * [OpenPrism](http://openprism.thomaslevine.com/)
+* [Two Bedroom home Sales](https://data.sfgov.org/Public-Health/Two-Bedroom-Home-Sales-from-2012-in-San-Francisco-/bw6b-qwhv)
+* [SF Building Permits](http://sfdbi.org/building-permits-filed-and-issued) 
+* [SFPD Incidents](http://www.datasf.org/page.php?page=tou&return_url=/datafiles/download.php?file=sfpd_incidents)
+    * [SFPD Map](http://sf-police.org/index.aspx?page=868)
+* [SF Rental Listings (6 Months)](https://data.sfgov.org/Public-Health/San-Francisco-Rental-Listings-06-2012-12-2012/c2ie-3fuy)
 
 ### Food
 * [Locu](https://locu.com/)
