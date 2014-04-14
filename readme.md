@@ -17,6 +17,7 @@
 * [Citi Bike NYC](http://citibikenyc.com/system-data): [json](http://appservices.citibikenyc.com/data2/stations.php)
 * [Capital Bike Share DC](http://capitalbikeshare.com/system-data)
 * Bay Area Bike Share: [data](http://bayareabikeshare.com/stations/json) and [gem](http://blog.zackshapiro.com/bikeshare-a-ruby-gem-for-interacting-with-bay-area-bike-share)
+* [Weather](http://www.wunderground.com/history/airport/KSFO/2014/1/6/DailyHistory.html)
 
 ### Government
 * [San Francisco](https://data.sfgov.org/)
