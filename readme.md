@@ -27,6 +27,7 @@
 * [United States](http://www.data.gov/)
 * [US Treasury](http://treasury.io/)
 * [Census](http://www2.census.gov/)
+* [World Trade](http://atlas.media.mit.edu/about/api/data/)
 * [United Kingdom](http://data.gov.uk/)
 * [World Bank](http://data.worldbank.org/)
 * [European Union](http://publicdata.eu/)
@@ -40,6 +41,7 @@
 
 ### Food
 * [Locu](https://locu.com/)
+* [Snaks!](http://www.snackdata.com/)
 
 ### Energy
 * [Genability](genability.com/toolbox/)
