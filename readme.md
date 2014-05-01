@@ -1,41 +1,44 @@
 ### Academic
-* [Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)
+* __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 * [Internet Traffic Archive](http://ita.ee.lbl.gov/html/traces.html)
 * [Academic Torrents](http://academictorrents.com/)
 
 ### Networks
-* [Youtube](http://netsg.cs.sfu.ca/youtubedata/)
+* __[Youtube](http://netsg.cs.sfu.ca/youtubedata/)__
 * [Twitter user graph](http://an.kaist.ac.kr/traces/WWW2010.html)
 * [Facebook Graph](http://konect.uni-koblenz.de/networks/facebook-sg)
-* [Facebook Profile Data](http://mypersonality.org/wiki/doku.php?id=download_databases)
+* __[Facebook Profile Data](http://mypersonality.org/wiki/doku.php?id=download_databases)__
 
 ### GPS/Transit
 * [NYC MTA transit data](http://www.mta.info/developers/download.html)
-* [SFMTA GPS data on vehicles](https://data.sfgov.org/Transportation/Raw-AVL-GPS-data/5fk7-ivit)
+* __[SFMTA GPS data on vehicles](https://data.sfgov.org/Transportation/Raw-AVL-GPS-data/5fk7-ivit)__
 * [Uber Anonymized GPS](http://www.infochimps.com/datasets/uber-anonymized-gps-logs)
 * [Citi Bike NYC](http://citibikenyc.com/system-data): [json](http://appservices.citibikenyc.com/data2/stations.php)
 * [Capital Bike Share DC](http://capitalbikeshare.com/system-data)
 * Bay Area Bike Share: [data](http://bayareabikeshare.com/stations/json) and [gem](http://blog.zackshapiro.com/bikeshare-a-ruby-gem-for-interacting-with-bay-area-bike-share)
-* [Weather](http://www.wunderground.com/history/airport/KSFO/2014/1/6/DailyHistory.html)
+* __[Weather](http://www.wunderground.com/history/airport/KSFO/2014/1/6/DailyHistory.html)__
 
 ### Government
 * [San Francisco](https://data.sfgov.org/)
-* [Education](https://www.edsurge.com/n/2014-01-21-education-datapalooza)
+* __[Education](https://www.edsurge.com/n/2014-01-21-education-datapalooza)__
 * [SF neighborhoods](https://data.sfgov.org/Service-Requests-311-/Neighborhoods/ejmn-jyk6)
 * [New York](https://nycopendata.socrata.com/)
 * [United States](http://www.data.gov/)
 * [Census](http://www2.census.gov/)
 * [United Kingdom](http://data.gov.uk/)
-* [OpenPrism](http://openprism.thomaslevine.com/)
-* [Two Bedroom home Sales](https://data.sfgov.org/Public-Health/Two-Bedroom-Home-Sales-from-2012-in-San-Francisco-/bw6b-qwhv)
+* __[OpenPrism](http://openprism.thomaslevine.com/)__
 * [SF Building Permits](http://sfdbi.org/building-permits-filed-and-issued) 
 * [SFPD Incidents](http://www.datasf.org/page.php?page=tou&return_url=/datafiles/download.php?file=sfpd_incidents)
     * [SFPD Map](http://sf-police.org/index.aspx?page=868)
+
+### Housing
+* __[Zillow Rental](http://www.zillow.com/research/data/)__
+* [SF Two Bedroom home Sales](https://data.sfgov.org/Public-Health/Two-Bedroom-Home-Sales-from-2012-in-San-Francisco-/bw6b-qwhv) 
 * [SF Rental Listings (6 Months)](https://data.sfgov.org/Public-Health/San-Francisco-Rental-Listings-06-2012-12-2012/c2ie-3fuy)
 
 ### Financial
-* [US Treasury](http://treasury.io/)
+* __[US Treasury](http://treasury.io/)__
 * [World Trade](http://atlas.media.mit.edu/about/api/data/)
 * [LendingClub](https://www.lendingclub.com/info/download-data.action)
 * [World Bank](http://data.worldbank.org/)
@@ -44,7 +47,7 @@
 
 ### Food
 * [Locu](https://locu.com/)
-* [Snaks!](http://www.snackdata.com/)
+* __[Snacks!](http://www.snackdata.com/)__
 
 ### Energy
 * [Genability](genability.com/toolbox/)
@@ -83,8 +86,8 @@
 * [Programmable Web](http://www.programmableweb.com/)
 
 ### Aggregations
-* [CrowdFlower Open Data](https://crowdflower.com/open-data-library)
-* [538 Datasets](https://github.com/fivethirtyeight/data)
+* __[CrowdFlower Open Data](https://crowdflower.com/open-data-library)__
+* __[538 Datasets](https://github.com/fivethirtyeight/data)__
 * [DataMob](http://datamob.org/datasets/tag/machine-learning)
 * [/r/datasets](http://www.reddit.com/r/datasets)
 * [Introduction to Data Science (Berkeley): by Jeff (the Hammer) Hammerbacher](http://www.quora.com/Jeff-Hammerbacher/Introduction-to-Data-Science-Data-Sets)
