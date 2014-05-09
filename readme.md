@@ -6,6 +6,29 @@
 | | Thursday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
 | | Friday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
 |||||||
+| 2| Monday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Tuesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Wednesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Thursday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Friday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+|||||||
+| 3| Monday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Tuesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Wednesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Thursday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Friday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+|||||||
+| 4| Monday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Tuesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Wednesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Thursday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Friday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+|||||||
+| 5| Monday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Tuesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Wednesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Thursday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
+| | Friday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
 
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
