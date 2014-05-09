@@ -3,6 +3,9 @@
 
 </table>
 
+|and|markdown|tables|
+|:--:|:--:|:--:|
+|one| <ul><li>one</li><li>two</li></ul>| thrr|
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
