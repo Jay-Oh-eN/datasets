@@ -1,6 +1,6 @@
 |this| is| a | table|
 |:--:|:--:|:--:|:--:|
-|with| some| * complicated *ed | formatting|
+|with| some| <li> complicated </li><li>ed</li> | formatting|
 
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
