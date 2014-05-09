@@ -8,6 +8,7 @@
 
 --
 | Week | Day | Readings | Sprint | Assessment | Lecture |
+|:--:|:--:|:--:|:--:|:--:|:--:|
 | 2| Monday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
 | | Tuesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
 | | Wednesday | <ul><li>one</li><li>two</li></ul>| [Basic Python]()  | [Data Structures](sdfd) | [lecture](mone) |
