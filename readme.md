@@ -1,7 +1,3 @@
-|this| is| a | table|
-|:--:|:--:|:--:|:--:|
-|with| some| <li> complicated </li><li>ed</li> | formatting|
-
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
