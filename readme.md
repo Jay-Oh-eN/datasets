@@ -1,10 +1,10 @@
 | Week | Day | Readings | Sprint | Assessment | Lecture |
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1| Monday | <ul>
 <li>one</li>
 <li>two</li>
-</ul>|  | |
-||||||
+</ul>|  | | |
+|||||||
 
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
