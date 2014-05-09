@@ -1,3 +1,11 @@
+| Week | Day | Readings | Sprint | Assessment | Lecture |
+|:--:|:--:|:--:|:--:|:--:|
+| 1| Monday | <ul>
+<li>one</li>
+<li>two</li>
+</ul>|  | |
+||||||
+
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
