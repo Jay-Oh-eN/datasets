@@ -1,3 +1,8 @@
+<table>
+<tr><td>some</td><td>more</td><td><ul><li>one</li><li>two</li></ul></td></tr>
+
+</table>
+
 ### Academic
 * __[Stanford SNAP datasets: networks](https://snap.stanford.edu/data/index.html)__
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/)
