@@ -86,6 +86,7 @@
 * [Programmable Web](http://www.programmableweb.com/)
 
 ### Aggregations
+* __[100 interesting datasets for Statistics](http://rs.io/2014/05/29/list-of-data-sets.html)
 * __[CrowdFlower Open Data](https://crowdflower.com/open-data-library)__
 * __[538 Datasets](https://github.com/fivethirtyeight/data)__
 * [DataMob](http://datamob.org/datasets/tag/machine-learning)
