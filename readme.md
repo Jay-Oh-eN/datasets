@@ -9,6 +9,7 @@
 * [Twitter user graph](http://an.kaist.ac.kr/traces/WWW2010.html)
 * [Facebook Graph](http://konect.uni-koblenz.de/networks/facebook-sg)
 * __[Facebook Profile Data](http://mypersonality.org/wiki/doku.php?id=download_databases)__
+* __[MIT Media Lab: Human Dynamics](http://realitycommons.media.mit.edu/index.html)__
 
 ### GPS/Transit
 * [NYC MTA transit data](http://www.mta.info/developers/download.html)
