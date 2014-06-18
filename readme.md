@@ -32,6 +32,7 @@
 * [SF Building Permits](http://sfdbi.org/building-permits-filed-and-issued) 
 * [SFPD Incidents](http://www.datasf.org/page.php?page=tou&return_url=/datafiles/download.php?file=sfpd_incidents)
     * [SFPD Map](http://sf-police.org/index.aspx?page=868)
+* [Pew Research Datasets](http://www.pewresearch.org/data/download-datasets/) 
 
 ### Housing
 * __[Zillow Rental](http://www.zillow.com/research/data/)__
