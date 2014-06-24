@@ -59,6 +59,7 @@
 * [MEDgle](http://medgle.com/)
 * [Global Health Observatory](http://apps.who.int/gho/data/view.main)
 * [CDC](https://data.cdc.gov/)
+* [10 Datasets for Health Hackers](http://rockhealth.com/2014/05/top-10-datasets-health-hackers/)
 
 ### Large data sets
 * [Amazon Public Data sets](http://aws.amazon.com/publicdatasets/)
