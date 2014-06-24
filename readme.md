@@ -60,6 +60,7 @@
 * [Global Health Observatory](http://apps.who.int/gho/data/view.main)
 * [CDC](https://data.cdc.gov/)
 * [10 Datasets for Health Hackers](http://rockhealth.com/2014/05/top-10-datasets-health-hackers/)
+* [Epidemiology](http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/clinical-departments/public-health/education-programs/student-resources/public-datasets.cfm)
 
 ### Large data sets
 * [Amazon Public Data sets](http://aws.amazon.com/publicdatasets/)
