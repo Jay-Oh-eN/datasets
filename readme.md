@@ -11,6 +11,9 @@
 * __[Facebook Profile Data](http://mypersonality.org/wiki/doku.php?id=download_databases)__
 * __[MIT Media Lab: Human Dynamics](http://realitycommons.media.mit.edu/index.html)__
 
+### Web
+* [Unofficial sfdata.gov site stats](https://data.sfgov.org/api/site_metrics.json?start=1357084800000&end=1388620799999&method=series&slice=DAILY&_=1403631081306)
+
 ### GPS/Transit
 * [NYC MTA transit data](http://www.mta.info/developers/download.html)
 * __[SFMTA GPS data on vehicles](https://data.sfgov.org/Transportation/Raw-AVL-GPS-data/5fk7-ivit)__
