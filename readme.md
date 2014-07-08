@@ -37,6 +37,7 @@
 * [SFPD Incidents](http://www.datasf.org/page.php?page=tou&return_url=/datafiles/download.php?file=sfpd_incidents)
     * [SFPD Map](http://sf-police.org/index.aspx?page=868)
 * [Pew Research Datasets](http://www.pewresearch.org/data/download-datasets/) 
+* [US Bill Cosponsorship](http://jhfowler.ucsd.edu/cosponsorship.htm)
 
 ### Housing
 * __[Zillow Rental](http://www.zillow.com/research/data/)__
@@ -108,6 +109,7 @@
 * [Visual.ly open data](http://blog.visual.ly/data-sources/)
 * [visualizing.org open data](http://www.visualizing.org/data/browse)
 * [music + data](http://musicdatascience.com/)
+* [Datasets released by Google](http://svonava.com/post/62186512058/datasets-released-by-google)
 
 ### Marketplaces/Data as a Service (DaaS)
 * marketplace: [Infochimps](http://www.infochimps.com/datasets)
