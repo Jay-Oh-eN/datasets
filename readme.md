@@ -11,6 +11,11 @@
 * __[Facebook Profile Data](http://mypersonality.org/wiki/doku.php?id=download_databases)__
 * __[MIT Media Lab: Human Dynamics](http://realitycommons.media.mit.edu/index.html)__
 
+### Trend/Topics
+
+* [Twitter](http://nlp.uned.es/~damiano/datasets/TT-classification.html)
+* [Twitter 2](http://www.socialsensor.eu/results/datasets/72-twitter-tdt-dataset)
+
 ### Education
 * __[Havard and MIT MOOC learning data](http://newsoffice.mit.edu/2014/mit-and-harvard-release-de-identified-learning-data-open-online-courses)__
 
