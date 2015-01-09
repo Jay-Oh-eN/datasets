@@ -61,6 +61,7 @@
 * [World Bank](http://data.worldbank.org/)
 * [European Union](http://publicdata.eu/)
 * [Federal Reserve](http://research.stlouisfed.org/fred2/)
+* [OpenSpending](https://openspending.org/)
 
 ### Food
 * [Locu](https://locu.com/)
