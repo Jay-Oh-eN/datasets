@@ -49,6 +49,14 @@
 * [Pew Research Datasets](http://www.pewresearch.org/data/download-datasets/) 
 * [US Bill Cosponsorship](http://jhfowler.ucsd.edu/cosponsorship.htm)
 
+### Recommendation
+
+* [Book Reviews](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
+* [Jokes!](http://eigentaste.berkeley.edu/dataset/)
+* [TripAdvisor -- Hotels](http://times.cs.uiuc.edu/~wang296/Data/)
+* [Multi-Domain Sentiment](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html)
+* [Aggregated List](https://gist.github.com/entaroadun/1653794)
+
 ### Housing
 * __[Zillow Rental](http://www.zillow.com/research/data/)__
 * [SF Two Bedroom home Sales](https://data.sfgov.org/Public-Health/Two-Bedroom-Home-Sales-from-2012-in-San-Francisco-/bw6b-qwhv) 
