@@ -33,6 +33,7 @@
 * Bay Area Bike Share: [data](http://bayareabikeshare.com/stations/json) and [gem](http://blog.zackshapiro.com/bikeshare-a-ruby-gem-for-interacting-with-bay-area-bike-share)
 * __[Weather](http://www.wunderground.com/history/airport/KSFO/2014/1/6/DailyHistory.html)__
 * [NYC Taxis](http://www.andresmh.com/nyctaxitrips/)
+* [swissnexSF: Urban Data Challenge](https://github.com/swissnexSF/Urban-Data-Challenge)
 
 ### Government
 * [San Francisco](https://data.sfgov.org/)
