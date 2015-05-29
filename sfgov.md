@@ -36,7 +36,7 @@
 **Transit:**
 
 *   **[https://data.sfgov.org/Transportation/SFMTA-Transit-Stop-and-Schedule-Data-GTFS-format-/2qyp-77cq](https://data.sfgov.org/Transportation/SFMTA-Transit-Stop-and-Schedule-Data-GTFS-format-/2qyp-77cq)**
-*   ****https://data.sfgov.org/Transportation/Raw-AVL-GPS-data/5fk7-ivit****
+*   **https://data.sfgov.org/Transportation/Raw-AVL-GPS-data/5fk7-ivit**
 *   http://www.infochimps.com/datasets/uber-anonymized-gps-logs
 *   [https://data.sfgov.org/Transportation/Traffic-Control-Signal-Locations-in-San-Francisco-/knrw-a3gi](https://data.sfgov.org/Transportation/Traffic-Control-Signal-Locations-in-San-Francisco-/knrw-a3gi)
 *   [https://data.sfgov.org/Geography/Street-Nodes-Zipped-Shapefile-Format-/zst2-f24q](https://data.sfgov.org/Geography/Street-Nodes-Zipped-Shapefile-Format-/zst2-f24q)
