@@ -25,6 +25,7 @@
 * [Github Torrent](http://ghtorrent.org/)
 
 ### GPS/Transit
+* [Uber!](https://github.com/fivethirtyeight/uber-tlc-foil-response)
 * [NYC MTA transit data](http://www.mta.info/developers/download.html)
 * __[SFMTA GPS data on vehicles](https://data.sfgov.org/Transportation/Raw-AVL-GPS-data/5fk7-ivit)__
 * [Uber Anonymized GPS](http://www.infochimps.com/datasets/uber-anonymized-gps-logs)
