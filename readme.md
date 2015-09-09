@@ -131,6 +131,7 @@
 * [visualizing.org open data](http://www.visualizing.org/data/browse)
 * [music + data](http://musicdatascience.com/)
 * [Datasets released by Google](http://svonava.com/post/62186512058/datasets-released-by-google)
+* [Recommendations](https://gist.github.com/entaroadun/1653794)
 
 ### Marketplaces/Data as a Service (DaaS)
 * marketplace: [Infochimps](http://www.infochimps.com/datasets)
