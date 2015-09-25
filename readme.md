@@ -67,6 +67,7 @@
 * __[Zillow Rental](http://www.zillow.com/research/data/)__
 * [SF Two Bedroom home Sales](https://data.sfgov.org/Public-Health/Two-Bedroom-Home-Sales-from-2012-in-San-Francisco-/bw6b-qwhv) 
 * [SF Rental Listings (6 Months)](https://data.sfgov.org/Public-Health/San-Francisco-Rental-Listings-06-2012-12-2012/c2ie-3fuy)
+* [AirBnB](http://insideairbnb.com/get-the-data.html)
 
 ### Financial
 * __[US Treasury](http://treasury.io/)__
