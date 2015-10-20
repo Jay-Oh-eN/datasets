@@ -38,6 +38,7 @@
 
 ### Government
 * [San Francisco](https://data.sfgov.org/)
+* __[ipeds Education Survey Data](https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx)__
 * __[Education](https://www.edsurge.com/n/2014-01-21-education-datapalooza)__
 * [SF neighborhoods](https://data.sfgov.org/Service-Requests-311-/Neighborhoods/ejmn-jyk6)
 * [New York](https://nycopendata.socrata.com/)
